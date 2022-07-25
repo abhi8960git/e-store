@@ -1,0 +1,18 @@
+
+*{
+  background-color: #161623;
+}
+.categories-container {
+  // border: 5px solid blue;
+    width: 100%;
+    display:grid;
+    grid-template-columns:repeat(auto-fit, minmax(400px,1fr));
+    position: absolute;
+  //  background-color: red;
+    top:74px;
+    padding-top: 15px;
+    border-radius: 10px;
+    background-color: #161625;
+    // margin: 18px;
+   
+  }
